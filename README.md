@@ -23,5 +23,5 @@
 
 ## 📫 Connect With Me
 📧 **Email:** emaanabdelazeem@gmail.com  
-💼 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/YourLinkedIn)  
+💼 **LinkedIn:** linkedin.com/in/eman-abdelazeem-67b1b9247
 

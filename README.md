@@ -7,8 +7,7 @@
 
 ## 🚀 About Me
 - 🎯 Passionate about **AI, embedded systems, and robotics**
-- 💡 Experienced in **front-end & back-end development**
-- 🛠️ Building **desktop applications and embedded solutions**
+- 💡 Experienced in **front-end development & embedded systems**
 - 🔬 Interested in **biomedical technology & innovation**
 
 ---
@@ -19,11 +18,6 @@
 - **Embedded Systems:** Arduino, AVR  
 - **Version Control:** Git & GitHub  
 - **Databases:** MySQL  
-
----
-
-## 📌 GitHub Stats
-![Emaan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
 
 ---
 

@@ -15,7 +15,7 @@
 ## 🛠 Tech Stack
 - **Languages:** Python, C++, JavaScript, C, HTML/CSS  
 - **Frameworks & Tools:** PyQt5, React.js, Node.js  
-- **Embedded Systems:** Arduino, AVR  
+- **Embedded Systems:** Arduino, AVR,ARM 
 - **Version Control:** Git & GitHub  
 - **Databases:** MySQL  
 

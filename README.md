@@ -15,7 +15,7 @@
 ## 🛠 Tech Stack
 - **Languages:** Python, C++, JavaScript, C, HTML/CSS  
 - **Frameworks & Tools:** PyQt5, React.js, Node.js
-- **Computer Vision & AI:**OpenCV, scikit-learn
+- **Computer Vision & AI:** OpenCV, scikit-learn
 - **Embedded Systems:** Arduino, AVR,ARM 
 - **Version Control:** Git & GitHub  
 - **Databases:** MySQL  
